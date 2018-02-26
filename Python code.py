@@ -1,6 +1,4 @@
-# created by Jia Guo
-# title: Asana data scientist intern challenge
-# date: 02/25/2018
+
 
 import pandas as pd
 import numpy as np
